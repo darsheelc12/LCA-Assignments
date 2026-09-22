@@ -1,3 +1,4 @@
+#checking that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9). 
 s = input("Enter the string: ")
 
 valid = True
