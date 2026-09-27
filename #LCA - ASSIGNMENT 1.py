@@ -16,7 +16,7 @@ student["city"] = "Pune"
 print("After Adding:", student)
 
 # Update a value
-student["age"] = 198
+student["age"] = 18
 print("After Updating Age:", student)
 
 # Remove an item using pop()
